@@ -1,14 +1,14 @@
 {
-    "name": "formating-essentials",
-    "displayName": "Formating Essentials",
-    "description": "Essential formating extensions",
-    "version": "0.0.2",
+    "name": "formatting-essentials",
+    "displayName": "Formatting Essentials",
+    "description": "Essential formatting extensions",
+    "version": "0.0.3",
     "publisher": "iamanaws",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Iamanaws/vs-formating-essentials.git"
+        "url": "https://github.com/Iamanaws/vs-formatting-essentials.git"
     },
-    "icon": "images/markdown-logo.png",
+    "icon": "images/file-logo.png",
     "galleryBanner": {
         "color": "lightblue",
         "theme": "light"
