@@ -1,0 +1,27 @@
+{
+    "name": "formating-essentials",
+    "displayName": "Formating Essentials",
+    "description": "Essential formating extensions",
+    "version": "0.0.2",
+    "publisher": "iamanaws",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Iamanaws/vs-formating-essentials.git"
+    },
+    "icon": "images/markdown-logo.png",
+    "galleryBanner": {
+        "color": "lightblue",
+        "theme": "light"
+    }, 
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "EditorConfig.EditorConfig",
+        "esbenp.prettier-vscode",
+        "lacroixdavid1.vscode-format-context-menu"
+    ]
+}
