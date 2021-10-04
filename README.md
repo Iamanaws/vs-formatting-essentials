@@ -1,6 +1,6 @@
 ## README
 
-These are some extension to improve code formatting
+These are some extensions to improve code formatting
 
 &nbsp;
 
